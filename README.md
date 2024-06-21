@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [behiredremote](www.behiredremote.com)
+- 🔭 I’m currently working on [www.behiredremote.com](www.behiredremote.com)
 
 - 🌱 I’m currently learning **Micro-services, React Js**
 
