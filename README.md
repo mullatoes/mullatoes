@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
-<h3 align="center">I develop mobile apps</h3>
+<h3 align="center">I develop microservices to power very powerful mobile apps out here</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mullatoes&show_icons=true&locale=en&layout=compact" alt="mullatoes" /></p>
 
